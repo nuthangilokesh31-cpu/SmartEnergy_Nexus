@@ -1,0 +1,2 @@
+sample_count,average_absolute_error,maximum_absolute_error,average_percentage_error,maximum_percentage_error,samples_within_5_percent,samples_within_10_percent
+9,69.19296374719306,235.90479258333744,1.7170435270496656,4.815564809639778,9,9

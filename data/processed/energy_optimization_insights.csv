@@ -1,0 +1,7 @@
+insight_type,metric,value,unit,interpretation
+Peak Demand,Observed test-period peak,8605.955999999998,load units,Maximum observed test-period demand occurred at 2013-12-20 17:30:00.
+Peak Demand,90th percentile threshold,4497.798799999996,load units,Demand above this threshold is classified as high-demand for optimization analysis.
+Peak Demand,95th percentile threshold,5052.3859999999995,load units,Demand above this threshold is classified as very high demand.
+Forecast Risk,Evening MAE,116.94358140670225,load units,Evening periods are a priority area for forecast-aware peak management.
+Optimization,Modeled 10% peak reduction,860.5955999999996,load units,Hypothetical reduction in the maximum high-demand load if a 10% reduction were achievable.
+Optimization,Modeled high-demand load shift,187541.0626,load units,Hypothetical quantity shifted from high-demand intervals under the 10% load-shifting scenario.

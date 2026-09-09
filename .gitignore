@@ -1,0 +1,42 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local raw dataset
+data/raw/
+*.csv
+
+# Keep processed project CSV files explicitly
+!data/processed/
+!data/processed/*.csv
+
+# Logs
+logs/
+*.log
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Local notebook checkpoints
+.ipynb_checkpoints/
+
+# Original uncompressed deployment model - keep local only
+models/best_forecasting_model.joblib

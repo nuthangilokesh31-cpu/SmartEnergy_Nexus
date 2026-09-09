@@ -1,0 +1,4 @@
+scenario,reduction_fraction,peak_observations,baseline_peak_load,modeled_peak_load,modeled_peak_reduction,baseline_average_high_demand,modeled_average_high_demand,modeled_average_reduction,interpretation
+5% peak reduction,0.05,344,8605.955999999998,8175.658199999998,430.2978000000003,5451.775075581395,5179.1863218023245,272.58875377907043,Hypothetical scenario assuming flexible loads can be reduced or shifted during high-demand periods.
+10% peak reduction,0.1,344,8605.955999999998,7745.360399999999,860.5955999999996,5451.775075581395,4906.597568023255,545.17750755814,Hypothetical scenario assuming flexible loads can be reduced or shifted during high-demand periods.
+15% peak reduction,0.15,344,8605.955999999998,7315.062599999998,1290.8934,5451.775075581395,4634.0088142441855,817.7662613372095,Hypothetical scenario assuming flexible loads can be reduced or shifted during high-demand periods.
