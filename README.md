@@ -12,7 +12,7 @@
 ## 🚀 Live Demo
 
 **Streamlit Cloud:**
-https://smartenergynexus.streamlit.app/
+https://smartenergynexus-otchpgfrgq5kdqlxzmrxtw.streamlit.app/
 
 The deployed application provides an interactive dashboard for exploring forecasting performance, peak-demand risk, explainable AI insights, optimization scenarios, and data-quality validation.
 
@@ -471,8 +471,7 @@ Main file: app.py
 
 ### Live application
 
-https://smartenergynexus.streamlit.app/
-
+https://smartenergynexus-otchpgfrgq5kdqlxzmrxtw.streamlit.app/
 ---
 
 ## 📌 Key Results
