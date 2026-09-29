@@ -9,7 +9,7 @@ The system combines **time-series feature engineering, machine learning, explain
 ### 🚀 Live Demo
 
 **Streamlit Cloud:**
-https://smartenergynexus.streamlit.app/
+https://smartenergynexus-otchpgfrgq5kdqlxzmrxtw.streamlit.app/
 
 **GitHub Repository:**
 https://github.com/nuthangilokesh31-cpu/SmartEnergy_Nexus
